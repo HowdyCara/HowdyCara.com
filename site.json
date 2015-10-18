@@ -5,7 +5,7 @@
 	"partialsDirectory": "partials",
 	"helpersDirectory": "helpers",
 	"data": {
-		"title": "Howdy Cara",
+		"title": "Howdy Cara | Graphic Design | Louisville, KY",
 		"layout": "layout/layout.html.hbs"
 	}
 }

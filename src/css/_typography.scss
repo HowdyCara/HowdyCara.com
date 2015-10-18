@@ -1,14 +1,28 @@
 @import "font-awesome/font-awesome";
 
-$normal-font-size: 16px;
-$normal-font-line-height: $normal-font-size * 1.5;
-
 html{
-  font-family: "open sans", helvetica, verdana, sans-serif;
-  font-size: $normal-font-size;
-  line-height: $normal-font-line-height;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 1.618;
 }
 
+
 .center-inside{
-  text-align: center;
+    text-align: center;
+}
+
+header {
+    h1 {
+        padding: 0;    
+        margin: 0;
+    }
+    h2 {
+        padding: 0;
+        margin: 0;
+        line-height: 2.75rem; 
+    }
+}
+
+p {
+    margin: 7px 0;
 }

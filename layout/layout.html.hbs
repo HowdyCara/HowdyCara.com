@@ -8,9 +8,30 @@
 
 	<link rel="stylesheet" href="/css/main.css">
 </head>
-<body>
 
-	{{> body}}
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Howdy Cara</h1>
+            <h2>Graphic &amp; Web Designer</h2>
+        </header>
+        
+        <nav>
+            <ul>
+                <a href="#"><li>Portfolio</li></a>
+                <a href="#"><li>About</li></a>
+                <a href="#"><li>Blog</li></a>                    
+            </ul>
+        </nav>
+        
+        <div id="content">
+            {{> body}}    
+        </div>
+    
+        <footer>
+            <p>&copy; Cara Smith 2015</p>
+        </footer>
+    </div>
 
 </body>
 </html>

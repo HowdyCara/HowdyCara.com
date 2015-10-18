@@ -1,6 +1,11 @@
-$grey: #302d2f;
+$teal: rgb(29, 172, 167);
+$ltteal: rgb(75, 221, 203);
+$ltgrey: rgb(191, 198, 179);
+$medgrey: rgb(141, 129, 114);
+$text: rgb(69, 54, 41);
+$ltwhite: rgb(250, 253, 254);
 
 body{
-  background: $grey;
-  color: white;
+  background: $ltwhite;
+  color: $text;
 }
