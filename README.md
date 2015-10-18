@@ -8,7 +8,7 @@ This uses the [unfold static site generator](https://github.com/ericlathrop/unfo
 To build:
  1. Install [node.js](http://nodejs.org/)
  2. Run `npm install -g unfold`
- 3. Run `unfold site.json`
+ 3. Run `npm run build`
 
 To view locally:
  1. Run `npm install -g node-static`
