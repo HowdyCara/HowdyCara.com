@@ -1,22 +1,50 @@
 [
     {
         "title": "Example 1",
-        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "image": "img/kvellcosmetics1.jpg",
         "description": "Super kitten love bombs for sale for $19.95"
     },
     {
         "title": "Example 2",
-        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "image": "img/kvellcosmetics4.jpg",
         "description": "Super kitten love bombs for sale for $19.95"
     },
     {
         "title": "Example 3",
-        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "image": "img/lubrisyn1.jpg",
         "description": "Super kitten love bombs for sale for $19.95"
     },
     {
         "title": "Example 4",
-        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "image": "img/lubrisyn2.jpg",
+        "description": "Super kitten love bombs for sale for $19.95"
+    },
+    {
+        "title": "Example 4",
+        "image": "img/lubrisyn_label1.png",
+        "description": "Super kitten love bombs for sale for $19.95"
+    },
+    {
+        "title": "Example 4",
+        "image": "img/lub-reb4.png",
+        "description": "Super kitten love bombs for sale for $19.95"
+    },
+    {
+        "title": "Example 4",
+        "image": "img/lub-reb5.png",
+        "description": "img/mbg1.jpg"
+    },
+    {
+        "title": "Billboard",
+        "image": "img/mbg1.jpg",
+        "description": "Billboard"
+    },    
+    {
+        "title": "Louisville Makes Games! Informational Postcard",
+        "image": "img/LMGcrd.png",
         "description": "Super kitten love bombs for sale for $19.95"
     }
+    
+    
 ]
+
