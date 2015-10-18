@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Example 1",
+        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "description": "Super kitten love bombs for sale for $19.95"
+    },
+    {
+        "title": "Example 2",
+        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "description": "Super kitten love bombs for sale for $19.95"
+    },
+    {
+        "title": "Example 3",
+        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "description": "Super kitten love bombs for sale for $19.95"
+    },
+    {
+        "title": "Example 4",
+        "image": "http://placekitten.com.s3.amazonaws.com/homepage-samples/200/140.jpg",
+        "description": "Super kitten love bombs for sale for $19.95"
+    }
+]
